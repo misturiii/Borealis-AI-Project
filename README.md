@@ -1,5 +1,5 @@
-# Borealis-AI-Project
-Forecasting Admission Rate
+# Borealis-AI-RBC
+Forecasting Admission Rate App
 Our concept of the project is to predict the admission rate for student. And our porject name is Pathways. 
 We have Ziyan Wang (Rita) from UofT, Rhepa Kamal, Ziqi Guo (Grace), and Weiqi Wu (Vicki) all from OCAD in our team. 
 
