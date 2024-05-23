@@ -1,5 +1,5 @@
 # Pathways
-A Predictive Enrollment Analytics Application
+Pathways is a Predictive Enrollment Analytics Application.
 
 Collaborated with Borealis AI, RBC, Our team (Rita Wang, Rhepa Kamal, Grace Guo, and Vicki Wu) has developed a predictive analytics prototype application.  
 
