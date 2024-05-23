@@ -3,7 +3,7 @@ A Predictive Enrollment Analytics Application
 
 Collaborated with Borealis AI, RBC, Our team (Rita Wang, Rhepa Kamal, Grace Guo, and Vicki Wu) has developed a predictive analytics prototype application.  
 
-The dataset we used for analytics is from the University of California's official website. ( https://www.universityofcalifornia.edu/about-us/information-center/fall-enrollment-glance )
+The dataset we used for analytics is from the University of California's official website. (https://www.universityofcalifornia.edu/about-us/information-center/fall-enrollment-glance)
 
 We have implemented and compared the performance of various machine learning models, including linear regression, random forest, XGBoost, and Adaboost. We found that linear regression has the best performance in this case.
 
